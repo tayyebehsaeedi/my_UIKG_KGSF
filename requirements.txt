@@ -1,0 +1,17 @@
+torch>=2.0.0
+# torch==2.3.0+cu118
+numpy>=1.19.0
+# numpy==1.26.4
+tqdm>=4.45.0 
+# tqdm==4.66.4
+nltk>=3.6.0
+# nltk==3.8.1
+torch-geometric>=2.0.0
+# torch-geometric==2.5.3
+gensim>=4.0.0
+# gensim==4.3.2
+scipy>=1.10.0
+# scipy==1.13.0
+# Optional dependencies
+# apex  # Uncomment if you want to use fused_adam optimizer
+# qhoptim  # Uncomment if you want to use QHM and QHAdam optimizers 
